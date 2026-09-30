@@ -1,3 +1,6 @@
+## Estado del proyecto 
+Prototipo inicial.
+
 # Sistema de IA 
 Proyecto de practica para la materia Arquitectura 
 de Sistemas de Inteligencia Artificial. 
